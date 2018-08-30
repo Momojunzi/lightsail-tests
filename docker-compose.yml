@@ -3,7 +3,7 @@ version: '3'
 services:
   
   client:
-    image: momojunzi/bagua-client:latest
+    image: Momojunzi/bagua-client:latest
     volumes:
       - '.:/usr/src/app'
     ports:
